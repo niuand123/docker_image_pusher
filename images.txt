@@ -3,6 +3,4 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 registry.k8s.io/ingress-nginx/controller:v1.8.0
 kubernetesui/metrics-scraper：v1.0.8
 kubernetesui/dashboard：v2.7.0
-php:8-apache
-grafana/grafana：latest
 
